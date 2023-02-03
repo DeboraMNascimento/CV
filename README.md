@@ -1,4 +1,6 @@
-# CV desenvolvido para aperfeiçoamento de práticas básicas de HTML e CSS a partir do curso "Introdução a HTML e CSS" da DNC.
+# CV
+
+Desenvolvido para aperfeiçoamento de práticas básicas de HTML e CSS a partir do curso "Introdução a HTML e CSS" da DNC.
 
 Feito com:
  - HTML
